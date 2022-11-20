@@ -1,4 +1,4 @@
-var result=0
+let result=0
 let x
 for(i=1;i<=10;i++)
 {
